@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Unclelien/Unclelien-github.io/static/css/main.1ec43709.css",
+    "main.js": "/Unclelien/Unclelien-github.io/static/js/main.7ad82f22.js",
+    "index.html": "/Unclelien/Unclelien-github.io/index.html",
+    "main.1ec43709.css.map": "/Unclelien/Unclelien-github.io/static/css/main.1ec43709.css.map",
+    "main.7ad82f22.js.map": "/Unclelien/Unclelien-github.io/static/js/main.7ad82f22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec43709.css",
+    "static/js/main.7ad82f22.js"
+  ]
+}
