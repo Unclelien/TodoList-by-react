@@ -1,0 +1,30 @@
+
+.createtext{
+    color: #959EAC;
+ 
+}
+.forminput{
+    width: 85%;
+    height: 60px;
+    border-radius: 8px;
+    padding-left:20px;
+    border-style: none;
+    font-size: 16px;
+}
+.button1{
+    width: 70px;
+    height: 60px;
+    border-radius: 4px;
+    margin-left: 5px;
+    background-color: #7D8ECF;
+    color: #fff;
+    box-shadow: none;
+    border-style: none;
+    cursor: pointer;
+    font-size: 40px;
+}
+.inputgroup{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}

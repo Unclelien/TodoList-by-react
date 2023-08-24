@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 700px;
+    height: 100%;
+    margin: 100px auto;
+    background-color: #cdd5fa;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.titletext{
+    width: 100%;
+    color:#959EAC;
+    border-bottom: 3px solid #9296aa;
+    margin-bottom: 20px;
+    padding:20px 0 0;
+    text-align: start;
+}
+.title1{
+    font-weight: bolder;
+}
+.todolist{
+    width: 100%;
+    height: 450px;
+    overflow: scroll;
+    scrollbar-color:#7D8ECF;
+    overflow-X:hidden;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #9296aa;
+    padding: 20px 20px 0 0;
+}
+.morebutton{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.inputforadd{
+    width: 100%;
+    padding: 20px 0;
+}
